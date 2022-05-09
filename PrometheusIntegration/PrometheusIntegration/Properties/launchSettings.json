@@ -1,0 +1,13 @@
+﻿{
+	"profiles": {
+    "PrometheusIntegration": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "metrics",
+      "applicationUrl": "http://localhost:5200/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
